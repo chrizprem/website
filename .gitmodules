@@ -1,0 +1,3 @@
+[submodule "patterns-code"]
+	path = patterns-code
+	url = git@github.com:Healthicity/patterns-code.git
